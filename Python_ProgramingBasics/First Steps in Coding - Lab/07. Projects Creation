@@ -1,4 +1,4 @@
-#Calculate necessary hours an architect will need to draw projects of several construction sites.
+# Calculate necessary hours an architect will need to draw projects of several construction sites.
 
 architect_name = input()
 projects_number = int(input())
