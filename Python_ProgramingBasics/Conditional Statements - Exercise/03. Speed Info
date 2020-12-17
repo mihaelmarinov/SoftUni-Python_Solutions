@@ -1,3 +1,5 @@
+# Write a program that reads the speed (real number) entered by the user and prints speed information.
+
 speed = float(input())
 
 if speed <= 10:
