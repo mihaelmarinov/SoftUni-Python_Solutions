@@ -1,4 +1,4 @@
-Calculates the necessary costs for the purchase of food for dogs and other animals
+# Calculates the necessary costs for the purchase of food for dogs and other animals
 
 
 dog_count = int(input())
