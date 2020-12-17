@@ -1,3 +1,6 @@
+# Write a program that, given income, success, and minimum wage, provides information on whether a student is eligible for a scholarship
+# and the value of the scholarship that is higher for him or her.
+
 from math import floor
 
 income_BGN = float(input())
