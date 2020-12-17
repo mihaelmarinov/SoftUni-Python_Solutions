@@ -1,3 +1,6 @@
+#Write a program that calculates what amount you will receive at the end of the deposit period at a certain
+interest rate.
+
 deposit_Value = float(input())
 deposit_timeFrame = int(input())
 APR = float(input())
