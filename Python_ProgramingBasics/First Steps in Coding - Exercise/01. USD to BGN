@@ -1,4 +1,4 @@
-#Convert USD to BGN
+# Convert USD to BGN
 
 value_USD = float(input())
 value_BGN = value_USD * 1.79549
