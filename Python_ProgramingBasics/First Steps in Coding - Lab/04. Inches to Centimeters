@@ -1,4 +1,4 @@
-#Convert inches to cm
+# Convert inches to cm
 
 inch = float(input())
 cm = inch * 2.54
