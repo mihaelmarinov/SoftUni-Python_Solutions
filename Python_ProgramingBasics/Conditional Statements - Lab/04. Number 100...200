@@ -1,3 +1,5 @@
+# Write a program that reads an integer entered by the user and checks if it is below 100, between 100 and 200, or above 200.
+
 num = int(input())
 
 if num < 100:
