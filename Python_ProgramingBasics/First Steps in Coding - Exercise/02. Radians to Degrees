@@ -1,3 +1,5 @@
+#Write a program that reads an angle in radians (rad) and converts it to degrees (deg).
+
 import math
 
 radians = float(input())
