@@ -1,3 +1,5 @@
+# Write a program that reads an hour of the day (integer) and a day of the week (text) - entered by the user and checks if the company's office is open.
+
 hours = int(input())
 day_of_week = str(input())
 
