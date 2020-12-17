@@ -1,3 +1,7 @@
+# There are a number of books on Joro's list of required literature for the summer vacation, but Joro
+# prefers to play with friends outside. Your task is to help Joro calculate how many hours a day
+# he has to spend time reading the necessary literature, but also spend as much time outside.
+
 book_pages = int(input())
 pages_per_hour = int(input())
 days_per_book = int(input())
