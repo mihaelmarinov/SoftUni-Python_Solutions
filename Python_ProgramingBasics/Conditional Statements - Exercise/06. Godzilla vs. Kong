@@ -1,3 +1,6 @@
+# Filming for the long-awaited film "Godzilla vs. Kong" begins. 
+# Screenwriter Adam Wingard asks you to write a program to calculate whether the funds provided are enough to shoot the film.
+
 budget_amount = float(input())
 movie_extras = int(input())
 price_clothing = float(input())
