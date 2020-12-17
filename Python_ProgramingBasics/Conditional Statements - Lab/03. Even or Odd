@@ -1,3 +1,5 @@
+# Write a program that reads an integer entered by the user and prints to the console whether the number is even or odd.
+
 num1 = int(input())
 
 if num1 % 2 == 0:
