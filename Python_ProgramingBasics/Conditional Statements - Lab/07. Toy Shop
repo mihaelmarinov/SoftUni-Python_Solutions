@@ -1,3 +1,5 @@
+# Write a program that calculates the profit from the order.
+
 vacation_price = float(input())
 puzzle_count = int(input())
 doll_count = int(input())
