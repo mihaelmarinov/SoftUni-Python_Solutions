@@ -1,3 +1,5 @@
+# Write a program that calculates the amount collected at the end of the campaign.
+
 camp_Days = int(input())
 bakers_Count = int(input())
 cake_Count = int(input())
