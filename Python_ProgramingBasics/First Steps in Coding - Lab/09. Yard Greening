@@ -1,0 +1,8 @@
+#Bozhidara has several houses on the Black Sea coast and wants to green the yards of some of them. Write a program that calculates the required funds.
+
+greening_m = float(input())
+
+total_price = greening_m * 7.61
+
+print(f"The final price is: {total_price * 0.82:.2f} lv.")
+print(f"The discount is: {total_price * 0.18:.2f} lv.")
