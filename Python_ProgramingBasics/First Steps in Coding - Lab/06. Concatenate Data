@@ -1,4 +1,4 @@
-#Reads a first name, family name, age and city and prints message
+# Reads a first name, family name, age and city and prints message
 
 first_name = input()
 last_name = input()
