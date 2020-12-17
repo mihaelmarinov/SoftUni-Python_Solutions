@@ -1,0 +1,5 @@
+book_pages = int(input())
+pages_per_hour = int(input())
+days_per_book = int(input())
+hour_per_day = float((book_pages / pages_per_hour) / days_per_book)
+print(hour_per_day)
