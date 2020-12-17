@@ -1,0 +1,6 @@
+venue_price = float(input())
+cake_price = float(venue_price * 0.20)
+drink_price = float(cake_price * 0.55)
+funTime_price = float(venue_price / 1/3)
+buget_value = float(venue_price + cake_price + drink_price + funTime_price)
+print(buget_value)
