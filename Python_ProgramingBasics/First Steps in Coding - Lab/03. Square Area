@@ -1,4 +1,4 @@
-#Calculate area of square
+# Calculate area of square
 
 
 side = int(input())
