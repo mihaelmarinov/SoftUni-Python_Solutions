@@ -1,3 +1,5 @@
+# Write a program that reads a product name entered by the user and checks if it is a fruit or vegetable.
+
 product_type = input()
 
 fruit = ["banana", "apple", "kiwi", "cherry", "lemon", "grapes"]
