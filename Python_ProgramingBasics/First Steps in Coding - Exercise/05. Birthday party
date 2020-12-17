@@ -1,3 +1,8 @@
+# For her daughter's birthday Ludmila has decided to organize a party to which she invites all her
+# classmates. For this purpose, she has decided to rent an entertainment hall for children, whose rent you will receive as an entrance from
+# the console.
+# Write a program to help Ludmila calculate what budget she will need.
+
 venue_price = float(input())
 cake_price = float(venue_price * 0.20)
 drink_price = float(cake_price * 0.55)
