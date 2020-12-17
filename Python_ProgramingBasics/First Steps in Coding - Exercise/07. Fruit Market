@@ -1,3 +1,6 @@
+# Maria decides to go on a diet and goes to a nearby market to buy strawberries, bananas, oranges and raspberries. Yes
+# write a program that calculates how much money she needs to pay the bill.
+
 strawberry_price = float(input())
 bananas_weight = float(input())
 orange_weight = float(input())
