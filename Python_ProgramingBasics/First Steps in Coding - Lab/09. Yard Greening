@@ -1,4 +1,4 @@
-#Bozhidara has several houses on the Black Sea coast and wants to green the yards of some of them. Write a program that calculates the required funds.
+# Bozhidara has several houses on the Black Sea coast and wants to green the yards of some of them. Write a program that calculates the required funds.
 
 greening_m = float(input())
 
