@@ -1,3 +1,5 @@
+# Write a program in which the user enters the type and dimensions of a geometric figure and calculates its face.
+
 figure_type = str(input())
 
 if figure_type == "square":
