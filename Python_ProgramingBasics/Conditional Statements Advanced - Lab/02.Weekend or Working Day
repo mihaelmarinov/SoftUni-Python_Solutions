@@ -1,6 +1,3 @@
-# Write a program that reads the day of the week (text), in English - entered by the user. If the day is working prints on the console - "Working day", if it is a holiday - "Weekend". 
-# If text other than a day of the week is entered, print "Error".
-
 day_of_the_week = input()
 work_day = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 day_off = ["Saturday", "Sunday"]
