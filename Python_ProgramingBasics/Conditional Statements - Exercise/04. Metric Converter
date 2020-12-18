@@ -1,5 +1,3 @@
-# Write a program that converts the distance between the following 3 units: mm, cm, m.
-
 number = float(input())
 value1 = str(input())
 value2 = str(input())
