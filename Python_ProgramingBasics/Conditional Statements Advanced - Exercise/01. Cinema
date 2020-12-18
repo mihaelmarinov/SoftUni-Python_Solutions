@@ -1,3 +1,6 @@
+# Write a program that reads the type of projection (text), 
+# the number of rows, and the number of columns in the hall (integers) entered by the user, and calculates the total ticket revenue for a full hall.
+
 movie_type = str(input())
 r = int(input())
 c = int(input())
