@@ -1,5 +1,3 @@
-# Calculate the time in seconds for which Ivancho will swim the distance and the difference from the World Record.
-
 import math
 
 record_time = float(input())
