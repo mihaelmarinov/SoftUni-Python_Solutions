@@ -1,6 +1,3 @@
-# Three athletes finish in a matter of seconds (between 1 and 50). 
-# Write a program that reads the times of the competitors in seconds entered by the user and calculates their total time in the format "minutes: seconds".
-
 import math
 
 time_first = int(input())
