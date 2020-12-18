@@ -1,5 +1,3 @@
-# Write a program that prints the class of the animal according to its name entered by the user.
-
 animal_type = input()
 mammals = ["dog"]
 reptiles = ["crocodile", "tortoise", "snake"]
