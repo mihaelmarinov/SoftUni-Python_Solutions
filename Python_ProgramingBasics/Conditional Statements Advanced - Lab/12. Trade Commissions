@@ -1,5 +1,3 @@
-# Write a console program that reads the city name (text) and sales volume (real number) entered by the user, and calculates and displays the amount of the trade commission
-
 city = str(input())
 sales_volume = float(input())
 commission = 0
