@@ -1,4 +1,2 @@
-# Reads a name from the console and prints "Hello, {name}!"
-
 name = input()
 print("Hello, " + name +("!"))
