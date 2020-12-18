@@ -1,5 +1,3 @@
-# To write a program that reads day of the week (text) - entered by the user and prints on the console the price of a movie ticket according to the day of the week.
-
 day_of_week = str(input())
 
 cheep_ticket_days = ["Monday", "Tuesday", "Friday"]
