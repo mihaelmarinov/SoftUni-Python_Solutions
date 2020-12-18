@@ -1,3 +1,6 @@
+# Marin and Nelly are buying a house not far from Sofia. Nelly loves flowers so much that she convinces you to write a program that calculates
+# how much it will cost them to plant a certain number of flowers and whether the available budget will be enough.
+
 type_flowers = str(input())
 count_flower = int(input())
 budget = int(input())
