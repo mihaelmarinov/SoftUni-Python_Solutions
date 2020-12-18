@@ -1,5 +1,3 @@
-# Write a console program that reads the age (real number) and gender ('m' or 'f') entered by the user and prints an message.
-
 age = float(input())
 gender = str(input())
 
